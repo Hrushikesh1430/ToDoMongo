@@ -88,7 +88,7 @@ export default function Home() {
     <>
       <div className={Styles.container}>
         <div className={Styles.childContainer}>
-          <Image fill src="/bg-desktop-dark.jpg" alt="me" className={Styles.bgDesktop} />
+          <Image fill src="/static/images/bg-desktop-dark.jpg" alt="me" className={Styles.bgDesktop} />
 
           <div className={Styles.main}>
             <h2 className={Styles.heading}>TODO</h2>
